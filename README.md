@@ -1,2 +1,3 @@
 # Sugar-Cane-Prediction
-sd
+
+Analysed the each attributes and made visualizations of it
